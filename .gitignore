@@ -1,0 +1,10 @@
+# mdBook Generated Output
+/book/
+
+# Common Editor/OS Temporary Files
+*.swp
+*.bak
+*~
+*.log
+.DS_Store
+thumbs.db
