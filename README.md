@@ -2,8 +2,9 @@
 Izohli Atamalar Lugʻati - Inglizcha va Ruscha Muqobillari bilan
 
 
-## Licensing
+## Litsenziyalash
 
-All content in this repository (the dictionary text, definitions, and associated data) is dedicated to the public domain under the **Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication**.
+Ushbu repozitoriyadagi barcha kontent (lugʻat matni, ta'riflar va ular bilan bogʻliq maʼlumotlar) **Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication** ostida jamoat mulkiga bagʻishlangan.
 
-This means the work can be used, modified, and distributed freely, for any purpose, without restriction and without needing to provide attribution.
+Bu shuni anglatadiki, ishni erkin, har qanday maqsadlar uchun, cheklovlarsiz va **mualliflikni ko'rsatishga hojat qolmasdan** foydalanish, o'zgartirish va tarqatish mumkin.
+
