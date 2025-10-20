@@ -12,5 +12,6 @@
 
 # Atamalar Ro'yxati
 
+* [Lugʻat](terms/map.md)
 * [Tizma](terms/array.md)
 * [Oʻzgaruvchi](terms/variable.md)
