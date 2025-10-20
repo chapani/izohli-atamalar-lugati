@@ -1,0 +1,6 @@
+[book]
+title = "Izohli Atamalar Lugʻati"
+authors = ["chapani"]
+
+[output.html]
+mathjax-support = true
