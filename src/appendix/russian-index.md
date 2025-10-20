@@ -2,6 +2,9 @@
 
 Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
+## А
+[**Ассоциативный массив**](../terms/map.md) - Map - Lug'at
+
 ## M
 [**Массив**](../terms/array.md) - Array - Tizma
 
