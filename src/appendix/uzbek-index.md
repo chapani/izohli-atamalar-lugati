@@ -10,3 +10,6 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## Oʻ
 [**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная
+
+## X
+[**Xislat**](../terms/trait.md) - Trait - Трейт

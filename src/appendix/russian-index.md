@@ -10,3 +10,6 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## П
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi
+
+## Т
+[**Трейт**](../terms/trait.md) - Trait - Xislat

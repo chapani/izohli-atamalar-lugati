@@ -8,5 +8,8 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив
 
+## T
+[**Trait**](../terms/trait.md) - Xislat - Трейт
+
 ## V
 [**Variable**](../terms/variable.md) - Oʻzgaruvchi - Переменная
