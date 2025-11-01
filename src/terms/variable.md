@@ -10,7 +10,17 @@ Ba'zi dasturlash tillarida, masalan, Rust tilida, oʻzgaruvchilar aslan oʻzgarm
 
 Dasturlashda o'zgaruvchi qamrovi (variable scope) — bu o'zgaruvchi e'lon qilinganidan keyin dasturning qaysi qismlarida unga murojaat qilish yoki uni ishlatish mumkinligini belgilaydigan qoidalar to'plamidir. Masalan, biror topshiriq ichida e'lon qilingan mahalliy o’zgaruvchi faqat shu topshiriqning ichki qismida qamrovga ega bo'ladi. U topshiriqdan tashqarida mavjud emas va unga kirishga urinish xatolikka olib keladi.
 
-## Aloqador Atamalar
+## Oʻzgaruvchi turlari
+
+### Oʻzgaruvchi va oʻzgarmas oʻzgaruvchilar {#variable-mutability}
+
+Ba'zi dasturlash tillarida, oʻzgaruvchilar aslan oʻzgarmas boʻladi: masalan, Rust, Erlang/Elixir.
+
+Rust tilida oʻzgaruvchini oʻzgaruvchan qilib yaratish uchun `mut` kalitsoʻzi ishlatiladi.
+
+JavaScript tilida, oʻzgarmas oʻzgaruvchilar uchun `const` va oʻzgaruvchan oʻzgaruvchilar uchun esa `let` kalitsoʻzidan foydalaniladi.
+
+## Aloqador atamalar
 
 - qamrov
 - o'zgaruvchan
