@@ -10,3 +10,5 @@ Dasturlaşda **rusum** bitik qanday yozilişi kerakligi haqidagi kelişilgan kö
 
 - konvensiya
 - kelişuv
+- udum
+- urf
